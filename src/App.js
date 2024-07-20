@@ -7,9 +7,7 @@ import PotatoClicker from "./PotatoClicker";
 function App() {
   return (
     <div className="App">
-      <h1>
-        Varun
-      </h1>
+      <h1> The other one</h1>
       <PotatoClicker />
     </div>
   );
