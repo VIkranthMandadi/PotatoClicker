@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/PotatoClicker/static/css/main.ae5b6af7.css",
-    "main.js": "/PotatoClicker/static/js/main.ceb5a055.js",
+    "main.js": "/PotatoClicker/static/js/main.6a999e71.js",
     "static/js/453.ee2bb7e4.chunk.js": "/PotatoClicker/static/js/453.ee2bb7e4.chunk.js",
     "index.html": "/PotatoClicker/index.html",
     "main.ae5b6af7.css.map": "/PotatoClicker/static/css/main.ae5b6af7.css.map",
-    "main.ceb5a055.js.map": "/PotatoClicker/static/js/main.ceb5a055.js.map",
+    "main.6a999e71.js.map": "/PotatoClicker/static/js/main.6a999e71.js.map",
     "453.ee2bb7e4.chunk.js.map": "/PotatoClicker/static/js/453.ee2bb7e4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ae5b6af7.css",
-    "static/js/main.ceb5a055.js"
+    "static/js/main.6a999e71.js"
   ]
 }
